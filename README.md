@@ -18,20 +18,12 @@
 ## 🧰 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-
-### Tools
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
-
-### Security
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
+![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![Batch](https://img.shields.io/badge/Batch-black?style=for-the-badge&logo=windows)
 
 ---
 
