@@ -8,16 +8,10 @@
 
 ## 🧠 About Me
 
-💻 Bug Bounty Hunter  
+💻 Bug Bounty Hunter  (20+ Bug Reported)
 🌐 Web Developer  
-🛠 PC Repair Technician  
+🛠 Electronic Repair Technician  
 
-I enjoy breaking things (ethically) and building them better.
-
-- 🔎 Hunting vulnerabilities
-- 🌐 Building web applications
-- 🖥 Repairing and optimizing PCs
-- ⚡ Learning security research
 
 ---
 
@@ -69,23 +63,4 @@ I enjoy breaking things (ethically) and building them better.
 
 ---
 
-## 🚀 Current Focus
 
-- Bug bounty hunting
-- Web security research
-- Building web tools
-- Hardware diagnostics & PC repair
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=00xZ&label=Profile+Views&color=00ff9c&style=flat"/>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> I like finding bugs in software almost as much as fixing broken PCs.
