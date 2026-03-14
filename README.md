@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Bug+Bounty+Hunter;Web+Developer;PC+Repair+Technician;Security+Researcher" />
 </p>
 
+
+
 ---
 
 ## 🧠 About Me
@@ -24,6 +26,13 @@
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
 ![Batch](https://img.shields.io/badge/Batch-black?style=for-the-badge&logo=windows)
+
+---
+## 🧊 3D Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg"/>
+</p>
 
 ---
 
@@ -47,12 +56,5 @@
 
 ---
 
-## 🧊 3D Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg"/>
-</p>
-
----
 
 
