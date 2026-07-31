@@ -13,7 +13,7 @@
 💻 Bug Bounty Hunter  (20+ Bug Reported)
 🌐 Web Developer  
 🛠 Electronic Repair Technician  
-
+🕶️ Father
 
 ---
 
