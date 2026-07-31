@@ -1,7 +1,7 @@
 # <h2 align="center">[ Eyezik ]</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Bug+Bounty+Hunter;Web+Developer;PC+Repair+Technician;Security+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Bug+Bounty+Hunter;Web+Developer;Electronic+Repair+Technician;Security+Researcher" />
 </p>
 
 
